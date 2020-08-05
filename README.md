@@ -8,9 +8,9 @@ Gather your friends and play games related to your interests.
 This project is a game written in Python. 
 
 # Prerequisites
-Python 3.X \n
-BeautifulSoup\n
-Konlpy\n
-Request\n
-pandas\n
-Socket\n
+- Python 3.X
+- BeautifulSoup
+- Konlpy
+- Request
+- pandas
+- Socket
