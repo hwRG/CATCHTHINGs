@@ -11,7 +11,7 @@ You can be the best in this game.
 Gather your friends and play games related to your interests.
 
 
-# Program Explain
+## Program Explain
 
 - 플레이어(호스트)가 직접 카테고리 또는 관심사를 입력하면, 서버는 자동으로 인터넷의 데이터를 크롤링해 관련 단어를 선정한다. 
 플레이어는 랜덤으로 선정된 단어의 사진을 보고 가장 먼저 단어를 입력하면 점수가 오르는 경쟁 방식의 게임이다. (ex. 캐치마인드) <br><br>
