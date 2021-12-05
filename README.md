@@ -14,7 +14,9 @@ Gather your friends and play games related to your interests.
 ## CATCHTHINGs Summary
 
 - 동기, 친구들과 즐길 수 있는 간단한 상식 기반 캐주얼 게임을 만들어 보고 싶다는 생각에 만들게 되었다.<br>
+ 
 - 마침 어느정도 규모를 갖고, 1학기 프로젝트보다 업그레이드하여 객체지향의 관점에서 개발하고자 노력했다.<br>
+ 
 - 내가 기본적인 크롤링과 게임 진행 등 서버의 Back-end를 주력으로 개발했으며, 함께한 팀원이 소켓 프로그래밍을 통해 클라이언트와 서버의 통신 및 객체 안정화를 맡아 진행했다. <br><br>
 
 
